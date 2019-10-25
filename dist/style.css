@@ -1,0 +1,27 @@
+.card-body{
+  background-color: white;
+}
+
+h1, h2{
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+p {
+  text-align: center;
+}
+.card{
+  text-align: center;
+}
+.card-title{
+  padding-bottom: 2rem;
+}
+#quote-box{
+  justify-content: center;
+}
+.card-link{
+  font-size: 2.25rem;
+}
+.btn-container{
+  text-align: center;
+}
